@@ -47,19 +47,27 @@ const AppShowcase = () => {
     <div id="work" ref={sectionRef} className="app-showcase">
       <div className="w-full">
         <div className="showcaselayout">
-          <div ref={rydeRef} className="first-project-wrapper">
-            <div className="image-wrapper">
-              <img src="/images/storeit2.webp" alt="Ryde App Interface" />
-            </div>
-            <div className="text-content">
-              <h2>
-              A scalable, secure storage platform inspired by Google Drive, Dropbox, and OneDrive.
-              </h2>
-              <p className="text-white-50 md:text-xl">
-              A fast, user-friendly web app built with React, Next.js, Appwrite, and TypeScript.
-              </p>
-            </div>
+        <div ref={rydeRef} className="first-project-wrapper">
+          <div className="image-wrapper">
+            <img src="/images/storeit2.webp" alt="Ryde App Interface" />
           </div>
+          <div className="text-content">
+            <h2>
+              <a
+                href="https://storeit-ochre-two.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white-50 hover:underline"
+              >
+                A scalable, secure storage platform inspired by Google Drive, Dropbox, and OneDrive.
+              </a>
+            </h2>
+            <p className="text-white-50 md:text-xl">
+              A fast, user-friendly web app built with React, Next.js, Appwrite, and TypeScript.
+            </p>
+          </div>
+        </div>
+
 
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={libraryRef}>
