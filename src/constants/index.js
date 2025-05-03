@@ -326,6 +326,11 @@ const navLinks = [
       imgPath: "/images/dribbble.png",
       url: "https://dribbble.com/Kurtqt",
     },
+    {
+      name: "github",
+      imgPath: "/images/g.png",
+      url: "https://github.com/Kurtqttt",
+    },
   ];
   
   export {
