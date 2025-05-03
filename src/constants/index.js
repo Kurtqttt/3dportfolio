@@ -31,8 +31,8 @@ const navLinks = [
   const counterItems = [
     { value: 1, suffix: "+", label: "Years of Experience" },
     { value: 20, suffix: "+", label: "Satisfied Clients" },
-    { value: 108, suffix: "+", label: "Completed Projects" },
-    { value: 90, suffix: "%", label: "Client Retention Rate" },
+    { value: 10, suffix: "+", label: "Completed Projects" },
+    { value: 90, suffix: "%", label: "Team Retention Rate" },
   ];
   
   const logoIconsList = [
