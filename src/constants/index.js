@@ -193,8 +193,53 @@ const navLinks = [
         "Designed and implemented user interfaces and conducted thorough testing for quality assurance",
         "Flutter Flow based Note System.",
         "Enhanced user experience through effective UI/UX design practices.",
+        "Project Link and Documentation: https://app.flutterflow.io/project/tek-notes-5qzjtu?",
       ],
     },
+
+    {
+      review: "Kurt demonstrated strong technical skills in networking by implementing VLAN segmentation, DHCP configuration, and ACL policies, significantly improving system security and organization.",
+      imgPath: "/images/cisco-color.svg",
+      logoPath: "/images/cisco.png",
+      title: "CPE364 (Computer Networks and Security)",
+      date: "January - April 2024",
+      responsibilities: [
+        "Designed and implemented a Smart Home network using VLANs to segment IoT devices for improved security and traffic control.",
+        "Configured DHCP to enable dynamic IP addressing across segmented networks.",
+        "Applied Access Control Lists (ACLs) to restrict access between VLANs and enforce network security policies.",
+        "Project Link and Documentation: https://drive.google.com/drive/folders/1ztVLFdnlUBvvPTyKqcbJQQtXIWfb9Wtz?usp=sharing",
+      ],
+    },
+
+    {
+      review: "Kurt applied embedded systems and IoT principles to develop innovative hardware prototypes and monitoring solutions, demonstrating strong technical and problem-solving skills.",
+      imgPath: "/images/emb.png",
+      logoPath: "/images/logos/embedded.png",
+      title: "Embedded Systems and IoT",
+      date: "3rd Year & 4th Year",
+      responsibilities: [
+        "Developed an Arduino-powered firefighting robot prototype equipped with an ESP32 camera for real-time fire detection and remote monitoring.",
+        "Built an anti-theft motion sensor detector using passive components, effectively triggering alerts without a microcontroller.",
+        "Designed and prototyped a thesis boat project: a water-monitoring boat with IoT sensors (pH, turbidity, temperature, TDS) and a web-based system for real-time data visualization.",
+        "Project Link and Documentation: https://drive.google.com/drive/folders/1a4MiCDEzAv33fEo7c1udOq2WK6oJ_YKg?usp=drive_link",
+      ],
+    },
+
+    {
+      review: "Kurt demonstrated low-level programming proficiency by developing a functional ping pong game using assembly language, showcasing attention to detail and optimization skills.",
+      imgPath: "/images/assembly2.png",
+      logoPath: "/images/assembly.png",
+      title: "Assembly Language Programming",
+      date: "4th Year",
+      responsibilities: [
+        "Created a 2D ping pong game using Assembly Language with TASM, demonstrating mastery of low-level hardware interfacing and graphics programming.",
+        "Handled real-time input, ball movement, collision detection, and scoring logic within assembly constraints.",
+        "Optimized performance through efficient memory and register usage in a resource-constrained environment.",
+        "Project Link and Documentation: https://drive.google.com/drive/folders/1OSKLMn4lntljq0uXIg1_QnXQy_oR4Jx4?usp=drive_link",
+      ],
+    }
+    
+    
   ];
 
   
