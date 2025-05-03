@@ -263,10 +263,12 @@ const navLinks = [
     {
       name: "insta",
       imgPath: "/images/insta.png",
+
     },
     {
       name: "fb",
       imgPath: "/images/fb.png",
+      url: "https://www.facebook.com/kurt.saranillomacasling.1",
     },
     {
       name: "x",
