@@ -260,23 +260,26 @@ const navLinks = [
   ];
   
   const socialImgs = [
-    {
-      name: "insta",
-      imgPath: "/images/insta.png",
 
-    },
     {
       name: "fb",
-      imgPath: "/images/fb.png",
+      imgPath: "/images/facebook.png",
       url: "https://www.facebook.com/kurt.saranillomacasling.1",
     },
     {
-      name: "x",
-      imgPath: "/images/x.png",
+      name: "HackerRank",
+      imgPath: "/images/hr.png",
+      url: "https://www.hackerrank.com/profile/kurtmacasling11",
     },
     {
       name: "linkedin",
-      imgPath: "/images/linkedin.png",
+      imgPath: "/images/linkedin1.png",
+      url: "https://www.linkedin.com/in/kurtmacasling11/",
+    },
+    {
+      name: "dribble",
+      imgPath: "/images/dribbble.png",
+      url: "https://dribbble.com/Kurtqt",
     },
   ];
   
