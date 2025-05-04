@@ -73,11 +73,20 @@ const AppShowcase = () => {
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
-                  src="/images/project2.png"
+                  src="/images/teknoymart.png"
                   alt="Library Management Platform"
                 />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>
+                <a 
+                  href="https://github.com/Kurtqttt/teknoymart"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-white-50 hover:underline"
+                >
+                TeknoyMart an Online E-commerce Platform using SpringBoot
+                </a>
+                </h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
